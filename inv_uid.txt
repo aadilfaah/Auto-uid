@@ -1,0 +1,3 @@
+# ACTIVE TARGETS - These UIDs will be spammed directly
+# Example:
+8665583320
